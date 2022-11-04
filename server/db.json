@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "comment": "I hope you enjoy my art and my website!",
+      "date": "November 2, 2022",
+      "name": "Collin",
+      "votes" : 10
+    },
+    {
+      "id": 2,
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum minus, quae eveniet pariatur harum ullam autem voluptatibus placeat facere quam. Laborum, alias nulla. Harum omnis expedita hic fugit rem vel!",
+      "date": "November 2, 2022",
+      "name": "Peter",
+      "votes" : -5
+    },
+    {
+      "id": 3,
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum minus, quae eveniet pariatur harum ullam autem voluptatibus placeat facere quam. Laborum, alias nulla. Harum omnis expedita hic fugit rem vel!",
+      "date": "November 2, 2022",
+      "name": "Donald",
+      "votes" : 3
+    }
+  ]
