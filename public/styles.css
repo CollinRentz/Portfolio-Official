@@ -40,9 +40,7 @@ color: #ffffff;
 }
 .Instalink:hover {
   cursor: pointer;
-  background: white;
-  color: #000000;
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
   #contact {
@@ -58,7 +56,7 @@ color: #ffffff;
 }
 .contactbutton:hover {
   cursor: pointer;
-  opacity: 0.8;
+  opacity: 0.7;
 }
   
 a {
@@ -217,6 +215,7 @@ a {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  font-size: 20px;
 }
 
 #aboutMebtn {
@@ -471,6 +470,7 @@ a {
 
 h3 {
   margin-left: 15px;
+  font-size: 30px;
 }
 
 .crcomment {
