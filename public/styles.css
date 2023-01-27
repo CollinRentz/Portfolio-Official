@@ -205,6 +205,18 @@ a {
     align-items: flex-start;
 }
 
+.appLink {
+  color: #000000;
+  width: 25px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.appLink:hover {
+  cursor: pointer;
+  opacity: 0.7;;
+}
+
 .linkedinLink {
   color: #000000;
   width: 25px;
