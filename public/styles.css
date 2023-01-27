@@ -4,7 +4,6 @@
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
   } */
-@media (max-width:480px) {
   #top {
     display: flex;
     justify-content: space-between;
@@ -558,4 +557,3 @@ h3 {
     grid-template-columns: repeat(1, 223px);
   }
  }
-}
