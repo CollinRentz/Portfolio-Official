@@ -1,5 +1,5 @@
 const path = require('path')
-const comments = require('./db.json')
+// const comments = require('./db.json')
 let globalId = 4
 
 module.exports = {

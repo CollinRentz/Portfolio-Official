@@ -7,19 +7,19 @@ app.use(cors())
 app.use(express.static('public'))
 
 const {
-    getComment,
-    deleteComment, 
-    createComment, 
-    updateVotes,
+    // getComment,
+    // deleteComment, 
+    // createComment, 
+    // updateVotes,
     getHTML
 } = require('./controller')
 
 app.get('/', getHTML)
 
-app.get(`/api/comment`, getComment)
-app.delete(`/api/comment/:id`, deleteComment)
-app.post(`/api/comment`, createComment)
-app.put(`/api/comment/:id`, updateVotes)
+// app.get(`/api/comment`, getComment)
+// app.delete(`/api/comment/:id`, deleteComment)
+// app.post(`/api/comment`, createComment)
+// app.put(`/api/comment/:id`, updateVotes)
 
 const port = process.env.PORT || 4005 
 
